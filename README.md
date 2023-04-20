@@ -10,3 +10,5 @@ docker build -t flask_mini_new .\Simple-Flask-Docker\.
 
 # Run docker image as container
 docker run -dp 8000:8000 --name tsp_0713_flask_mini flask_mini_new
+
+
